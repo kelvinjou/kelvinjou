@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+email inquiries: kelvinj.developer@gmail.com  
+for clarifications regarding my YouTube tutorial walkthrough videos.
 <!--
 **kelvinjou/kelvinjou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
